@@ -8,3 +8,4 @@
 ## Sessions
 1. [Session 01](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2001)
 2. [Session 02](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2002)
+3. [Session 03](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2003)
