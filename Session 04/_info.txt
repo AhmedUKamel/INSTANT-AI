@@ -1,5 +1,6 @@
 Subject: Python (Containters,
-		 Loops)
+		 Loops,
+		 Functions)
 Date: 3 Aug 22 No.04
 
 Tasks:
