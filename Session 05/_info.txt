@@ -1,0 +1,39 @@
+Subject: Python (Recursion), 
+Data structures (Array, LinkedList, Stack, Queue, Set)
+Date: 7 Aug 22 No.05
+
+Tasks:
+	1.Write a function in recursion/iterative way
+	2.Code binary-search in python
+
+Notes:
+	* Python has recursion calling limit.
+	* Data structure main categories:
+		1.Linearity:
+			1.1.Linear
+			1.2.Non-linear
+		2.Flexibility:
+			2.1.Static
+			2.2.Dynamic
+	* Linear data structure containers:
+		1.Array
+		2.LinkedList
+	* Linear data structure containers types:
+		1.Array
+		2.LinkedList
+			2.1.Direction:
+				2.1.1.Singly
+				2.1.2.Doubly
+			2.2.Circularity:
+				2.2.1.Circular
+				2.2.2.Non-circular
+	* Linear data structure containers applications:
+		1.Vector (C++) using [Array]
+		2.Stack using [Array, LinkedList]
+		3.Queue using [Array, LinkedList]
+			3.1.Circularity:
+				3.1.1.Circular
+				3.1.2.Non-circular
+			3.2.Priority:
+				3.2.1.Priority
+				3.2.2.Priority Less
