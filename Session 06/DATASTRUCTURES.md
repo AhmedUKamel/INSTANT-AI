@@ -45,7 +45,7 @@ my_dict = dict(zip([K1,K2,K3],[V1,V2,V3]))
 my_dict[new_key] = new_value
  # Delete elements
 my_dict.pop(key)
- # Update set with another (Merge)(And)
+ # Update elements
 my_dict[key  z ] = new_value
 ~~~
 
