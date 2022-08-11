@@ -20,6 +20,7 @@ my_array.get(index)
 ~~~
 
 #### 1.2.Set
+`Flexibility:` Dynamic
 `Technique:` Remove repetition and order
 `Types:` Unordered / Multi Set
 ~~~python
@@ -35,6 +36,7 @@ my_set.update(another_set)
 ~~~
 
 #### 1.3.Map (Dictionary)
+`Flexibility:` Dynamic
 `Technique:` Keys and Values
 `Types:` Unordered / Multi Dictionary
 ~~~python
