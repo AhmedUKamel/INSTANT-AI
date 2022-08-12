@@ -1,5 +1,5 @@
 `Subject:` Data structures (Map, Graph, Tree)
-<br />`Date:` 10 Aug 22 `No.`06
+<br />`Date:` 10 Aug 22 `No.` 06
 
 ### Tasks:
 1. How to sort dictionary by keys
