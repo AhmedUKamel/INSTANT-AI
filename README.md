@@ -76,4 +76,8 @@
         <a  href="https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2006" 
             target="_blank"> Session 06 </a>
     </li>
+    <li>
+        <a  href="https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2007" 
+            target="_blank"> Session 07 </a>
+    </li>
 </ol>
