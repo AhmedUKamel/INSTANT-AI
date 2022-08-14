@@ -16,7 +16,7 @@ ___
 |Time           |O (V+E)                |O (V+E)                |
 
 ### Conclusion
-> BFS is better to be used if target is far from starting point.
+> BFS is better to be used if target is far from starting point. <br />
 > DFS is better to be used in decision trees.
 
 ___
