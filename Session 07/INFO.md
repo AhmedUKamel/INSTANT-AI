@@ -1,4 +1,4 @@
-`Subject:` Object-Oriented Programming
+`Subject:` Object-Oriented Programming (Abstraction,Encapsulation)
 <br />`Date:` 14 Aug 22 `No.` 07
 
 ### Tasks:
