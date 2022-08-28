@@ -37,15 +37,16 @@ ___
 </p>
 
 ## Sessions
-1. [Session 01](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2001)
-2. [Session 02](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2002)
-3. [Session 03](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2003)
-4. [Session 04, Task 02](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2004)
-5. [Session 05](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2005)
-6. [Session 06](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2006)
-7. [Session 07](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2007)
-8. [Session 08](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2008)
-8. [Session 09](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2009)
+01. [Session 01](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2001)
+02. [Session 02](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2002)
+03. [Session 03](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2003)
+04. [Session 04, Task 02](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2004)
+05. [Session 05](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2005)
+06. [Session 06](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2006)
+07. [Session 07](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2007)
+08. [Session 08](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2008)
+09. [Session 09](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2009)
+10. [Session 10](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2010)
 
 ## Projects
 1. [Mini Project 1](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Mini%20Project%201)
