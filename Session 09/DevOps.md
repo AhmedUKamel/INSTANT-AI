@@ -39,3 +39,36 @@
 **In monitor phase:**
    * Monitoring tools such as:
      * Nagios
+
+___
+### DevOps vs. Agile
+
+**Main purpose:**
+`DevOps:` How to continuously deploy and maintenance the code
+<br />
+`Agile:` How to develop and deliver software
+
+**Scope:**
+`DevOps:` Grater number of developers
+<br />
+`Agile:` Small teams of 10 or less
+
+**Methodology:**
+`DevOps:` Focuses on constant testing and delivery
+<br />
+`Agile:` Focuses on constant changes
+
+**Duration:**
+`DevOps:` Is managed by deadlines and benchmarks with major releases
+<br />
+`Agile:` Is managed in units of sprints
+
+**Feedback:**
+`DevOps:` Is given by the internal team
+<br />
+`Agile:` Is given by the customer
+
+**Quality:**
+`DevOps:` Automation, early bug removal and contributes to creating better quality
+<br />
+`Agile:` Produces better applications suites with the desired requirements
