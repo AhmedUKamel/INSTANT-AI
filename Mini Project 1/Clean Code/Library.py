@@ -4,10 +4,28 @@ from getpass import getpass
 class Library:
     
     def __init__(self,name,books=list(),users=list()):
+        '''
+         class to represent a library.
+
+        ...
+
+        Attributes
+        ----------
+        name : str
+            name of the library
+        allBooks : list
+            list of available books in the library
+        users : list
+            List of users accounts for the library
+        lentBooks : dict
+            dictionary of lent books and their users 
+        user : User
+            represent the current user
+        '''
         self.name = name
         self.__allBooks = books
-        self.__lentBooks = dict()
         self.__users = users
+        self.__lentBooks = dict()
         self.__user = None
     
     def __getUser(self):
@@ -69,6 +87,9 @@ class Library:
         self.__allBooks.remove(bookName) 
     
     def signin(self):
+        '''
+        This function sign in user's account if exists.
+        '''
         if self.__user == None:
             user = self.__getUser()
             if type(user) != str:
@@ -78,6 +99,9 @@ class Library:
         return False
     
     def signup(self):
+        '''
+        This function creates a new user's account.
+        '''
         if self.__user == None:
             user = self.__getNewUser()
             if user != None:
@@ -86,12 +110,18 @@ class Library:
         return False
     
     def signout(self):
+        '''
+        This function sign out from the current user account.
+        '''
         if self.__user != None:
             self.__user = None
             return True
         return False
     
     def addBook(self):
+        '''
+        This function adds a new book to the library collection.
+        '''
         if self.__user != None:
             if self.__user.isAdmin():
                 bookName = self.__getBookName()
@@ -101,6 +131,9 @@ class Library:
         return False
     
     def removeBook(self):
+        '''
+        This function removes a book from the library if and only if no user is borrowing it.
+        '''
         if self.__user != None:
             if self.__user.isAdmin():
                 bookName = self.__getBookName()
@@ -110,6 +143,9 @@ class Library:
         return False
     
     def borrowBook(self):
+        '''
+        This function lends a book from the library to the current user.
+        '''
         if self.__user != None:
             bookName = self.__getBookName()
             if self.__isBookExist(bookName):
@@ -119,6 +155,9 @@ class Library:
         return False
     
     def returnBook(self):
+        '''
+        This function returns a borrowed book from the current user to the library.
+        '''
         if self.__user != None:
             bookName = self.__getBookName()
             if self.__isBookBorrowed(bookName):
@@ -128,18 +167,29 @@ class Library:
         return False
     
     def showProfile(self):
+        '''
+        This function displays all information about the current user.
+        
+        INFO: Full name, username, password, and already borrowed books.
+        '''
         if self.__user != None:
             self.__user.profile()
             return True
         return False
     
     def showUserBooks(self):
+        '''
+        This function displays each book available in the user's collection.
+        '''
         if self.__user != None:
             self.__user.displayMyBooks()
             return True
         return False
     
     def showAllBooks(self):
+        '''
+        This function displays each book available in the library.
+        '''
         if len(self.__allBooks)  == 0:
             print('No books in Library')
         else:
@@ -148,6 +198,9 @@ class Library:
                 print(f'{book} | ',end='')
     
     def showLentBooks(self):
+        '''
+        This function displays each lent book with users who lent.
+        '''
         if self.__user != None:
             if self.__user.isAdmin():
                 if len(self.__lentBooks)  == 0:
@@ -160,6 +213,9 @@ class Library:
         return False
     
     def addUser(self):
+        '''
+        This function adds a new user.
+        '''
         if self.__user != None:
             if self.__user.isAdmin():
                 user = self.__getNewUser()
@@ -169,6 +225,9 @@ class Library:
         return False
     
     def addAdmin(self):
+        '''
+        This function adds a new user as an admin.
+        '''
         if self.__user != None:
             if self.__user.isAdmin():
                 user = self.__getNewAdmin()
@@ -178,9 +237,15 @@ class Library:
         return False
     
     def updatePassword(self):
+        '''
+        This function updates the current user's password.
+        '''
         return self.__user.updatePassword()
     
     def isAdmin(self):
+        '''
+        This function returns either if the current user is admin or not.
+        '''
         if self.__user != None:
             return self.__user.isAdmin()
         return False
