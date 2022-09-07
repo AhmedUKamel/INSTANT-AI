@@ -52,3 +52,4 @@ ___
 
 ## Projects
 1. [Mini Project 1](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Mini%20Project%201)
+2. [Mini Project 2](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Mini%20Project%202)
