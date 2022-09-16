@@ -49,6 +49,8 @@ ___
 10. [Session 10](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2010)
 11. [Session 11](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2011)
 12. [Session 12](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2012)
+13. [Session 13](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2013)
+14. [Session 14](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2014)
 
 ## Projects
 1. [Mini Project 1](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Mini%20Project%201)
