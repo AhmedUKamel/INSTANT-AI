@@ -1,4 +1,4 @@
-`Subject:` Intro in Math for AI
+`Subject:` Math for AI (Algebra)
 <br />`Date:` 11 Sep 22 `No.` 13
 
 ### Tasks:
