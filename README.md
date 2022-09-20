@@ -36,6 +36,8 @@ ___
     <b>Artificial Intelligence Diploma (150 Hours)</b>
 </p>
 
+* [Diploma content](https://bit.ly/3dpOT3j)
+
 ## Sessions
 01. [Session 01](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2001)
 02. [Session 02](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2002)
