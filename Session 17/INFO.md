@@ -1,5 +1,5 @@
 `Subject:` Numpy
-<br />`Date:` 28 Sep 22 `No.` 17
+<br />`Date:` 2 Oct 22 `No.` 17
 
 ### Tasks:
 1. 
