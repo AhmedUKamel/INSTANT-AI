@@ -55,6 +55,9 @@ ___
 14. [Session 14](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2014)
 15. [Session 15](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2015)
 16. [Session 16](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2016)
+17. [Session 17](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2017)
+18. [Session 18](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2018)
+19. [Session 19](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2019)
 
 ## Projects
 1. [Mini Project 1](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Mini%20Project%201)
