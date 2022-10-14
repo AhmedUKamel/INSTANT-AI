@@ -39,25 +39,18 @@ ___
 * [Diploma content](https://bit.ly/3dpOT3j)
 
 ## Sessions
-01. [Session 01](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2001)
-02. [Session 02](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2002)
-03. [Session 03](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2003)
-4.  [Session 04](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2004)
-5.  [Session 05](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2005)
-6.  [Session 06](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2006)
-7.  [Session 07](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2007)
-8.  [Session 08](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2008)
-9.  [Session 09](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2009)
-10. [Session 10](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2010)
-11. [Session 11](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2011)
-12. [Session 12](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2012)
-13. [Session 13](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2013)
-14. [Session 14](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2014)
-15. [Session 15](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2015)
-16. [Session 16](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2016)
-17. [Session 17](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2017)
-18. [Session 18](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2018)
-19. [Session 19](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2019)
+|01-10|11-20|
+|-----|-----|
+|[Session 01](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2001)|[Session 11](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2011)|
+|[Session 02](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2002)|[Session 12](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2012)|
+|[Session 03](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2003)|[Session 13](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2013)|
+|[Session 04](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2004)|[Session 14](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2014)|
+|[Session 05](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2005)|[Session 15](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2015)|
+|[Session 06](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2006)|[Session 16](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2016)|
+|[Session 07](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2007)|[Session 17](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2017)|
+|[Session 08](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2008)|[Session 18](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2018)|
+|[Session 09](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2009)|[Session 19](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2019)|
+|[Session 10](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2010)|[Session 20](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Session%2020)|
 
 ## Projects
 1. [Mini Project 1](https://github.com/AhmedUKamel/INSTANT-AI/tree/main/Mini%20Project%201)
