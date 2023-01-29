@@ -1,7 +1,7 @@
 # About INSTANT
 
 <p align='center'>
-    <img style="width:250px; height:250px;" src="https://bit.ly/3vR57Zl" alt="Logo"/>
+    <img style="width:250px; height:250px;" src="https://bit.ly/406hezb" alt="Logo"/>
 </p>
 
 <p align='center'>
